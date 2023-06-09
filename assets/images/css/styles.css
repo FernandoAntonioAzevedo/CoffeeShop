@@ -6,6 +6,10 @@
     --bs-btn-active-bg: #0c3734; 
 }
 
+main {
+    margin-top: 5rem;
+}
+
 .navbar-brand img {
     width: 50px;
 }
