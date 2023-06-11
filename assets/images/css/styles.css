@@ -33,3 +33,8 @@ main {
     background: linear-gradient(transparent, rgb(31,31,31));
     position: absolute;
 }
+
+.card-menu img {
+    height: 300px;
+    object-fit: cover;
+}
